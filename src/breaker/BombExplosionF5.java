@@ -6,7 +6,6 @@ import java.util.Random;
 
 /**
  * Représente le frame n°5 d'une explosion crée par l'ennemi
- * @author Islem Yahiaoui, Alan Gouvernet, Mouhouni Chakrina, Wout Heijnen, Ibrahim, Zouhairi
  */
 public class BombExplosionF5 extends Ennemi {
     private GestionMap ge;

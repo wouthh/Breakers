@@ -10,7 +10,6 @@ import java.util.Random;
 
 /**
  * Représente le joueur (le héro), dirigé au clavier par l'utilisateur
- * @author Islem Yahiaoui, Alan Gouvernet, Mouhouni Chakrina, Wout Heijnen, Ibrahim, Zouhairi
  */
 public class Joueur extends ObjetTouchable implements KeyListener {
 	/**

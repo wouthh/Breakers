@@ -7,7 +7,6 @@ import java.util.Random;
 
 /**
  * Object bonus permettant au joueur de récupérer de la santé
- * @author Islem Yahiaoui, Alan Gouvernet, Mouhouni Chakrina, Wout Heijnen, Ibrahim, Zouhairi
  */
 public class BonusPv extends ObjetTouchable {
     private Joueur j;
