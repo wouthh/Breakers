@@ -7,7 +7,6 @@ import iut.Objet;
 
 /**
  *
- * @author Islem Yahiaoui, Alan Gouvernet, Mouhouni Chakrina, Wout, Ibrahim, Zouhairi
  * classe correspondant au background du jeu 
  */
 public class Herbe extends Objet{
