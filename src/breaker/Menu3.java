@@ -14,7 +14,6 @@ import java.awt.Graphics;
 
 /**
  * classe qui contient le menu du mode de jeu n°2 (mode survie)
- * @author Islem Yahiaoui, Alan Gouvernet, Mouhouni Chakrina, Wout Heijnen, Ibrahim, Zouhairi
  */
 public class Menu3 extends Objet{
     

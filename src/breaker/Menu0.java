@@ -11,7 +11,6 @@ import iut.Objet;
 
 /**
  * classe qui contient l'écan de titre du jeu 
- * @author Islem Yahiaoui, Alan Gouvernet, Mouhouni Chakrina, Wout Heijnen, Ibrahim, Zouhairi
  */
 public class Menu0 extends Objet{
         public Menu0(Game g, int x, int y){

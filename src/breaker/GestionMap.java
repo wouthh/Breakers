@@ -12,7 +12,6 @@ import java.util.Random;
 
 /**
  *
- * @author Islem Yahiaoui, Alan Gouvernet, Mouhouni Chakrina, Wout Heijnen, Ibrahim, Zouhairi
  */
 public class GestionMap extends Ennemi{
         private Audio a;

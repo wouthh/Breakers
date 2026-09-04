@@ -7,7 +7,6 @@ import java.awt.Graphics;
 
 /**
  * Indique visuellement la vie restant au joueur
- * @authorIslem Yahiaoui, Alan Gouvernet, Mouhouni Chakrina, Wout Heijnen, Ibrahim, Zouhairi
  */
 
 public class JaugeJoueur extends Objet {

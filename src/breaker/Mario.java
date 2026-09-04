@@ -9,7 +9,6 @@ import java.util.Random;
 
 /**
  * Super-ennemi, nécessitant plusieurs impacts pour être tué
- * @author Islem Yahiaoui, Alan Gouvernet, Mouhouni Chakrina, Wout Heijnen, Ibrahim, Zouhairi
  */
 public class Mario extends Ennemi {
 	/**

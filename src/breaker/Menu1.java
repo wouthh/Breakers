@@ -11,7 +11,6 @@ import iut.Objet;
 
 /**
  * classe qui contient le menu principale du jeu
- * @author Islem Yahiaoui, Alan Gouvernet, Mouhouni Chakrina, Wout Heijnen, Ibrahim, Zouhairi
  */
 public class Menu1 extends Objet{
         public Menu1(Game g, int x, int y){

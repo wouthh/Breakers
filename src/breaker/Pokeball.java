@@ -9,7 +9,6 @@ import java.util.Random;
 
 /**
  * Objet de soutient que le joueur peut rammasser au cours du jeu qui invoque un pokémon qui aide le joueur
- * @author Islem Yahiaoui, Alan Gouvernet, Mouhouni Chakrina, Wout Heijnen, Ibrahim, Zouhairi
  */
 public class Pokeball extends ObjetTouchable {
     private Ennemi e;
